@@ -30,18 +30,30 @@ class GFG
 
 //User function Template for Java
 
+
+
 class Solution
 {
-    
     ArrayList<Integer> rotate(int N, int D)
     {
-        // your code here
         ArrayList<Integer> result = new ArrayList<>();
-        D = D%16;
-        int l = ((N<<D)| N>>(16-D))&65535;
-        int r = ((N>>D)| N<<(16-D))&65535;
-        result.add(l);
-        result.add(r);
+        
+        // Convert N to a 16-bit binary string
+        String binaryStr = String.format("%16s", Integer.toBinaryString(N)).replace(' ', '0');
+        
+        // Ensure that D is within the range [0, 16)
+        D = D % 16;
+        
+        // Perform left rotation
+        String leftRotatedStr = binaryStr.substring(D) + binaryStr.substring(0, D);
+        int leftRotated = Integer.parseInt(leftRotatedStr, 2);
+        result.add(leftRotated);
+        
+        // Perform right rotation
+        String rightRotatedStr = binaryStr.substring(16 - D) + binaryStr.substring(0, 16 - D);
+        int rightRotated = Integer.parseInt(rightRotatedStr, 2);
+        result.add(rightRotated);
+        
         return result;
     }
 }
