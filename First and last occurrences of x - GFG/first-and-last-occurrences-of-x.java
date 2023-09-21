@@ -11,28 +11,61 @@ import java.util.*;
 //User function Template for Java
 
 
-class GFG
-{
-    ArrayList<Integer> find(int arr[], int n, int x)
-    {
-        // code here
+
+
+class GFG {
+    ArrayList<Integer> find(int arr[], int n, int x) {
         ArrayList<Integer> ans = new ArrayList<>();
         
+        // Find the first occurrence of x
+        int first = findFirst(arr, n, x);
+        // Find the last occurrence of x
+        int last = findLast(arr, n, x);
+        
+        ans.add(first);
+        ans.add(last);
+        
+        return ans;
+    }
     
-     for(int i=0; i<n;i++){
-        if(arr[i] ==x){ans.add(i); break;}
+    // Binary search to find the first occurrence of x
+    private int findFirst(int arr[], int n, int x) {
+        int low = 0, high = n - 1, first = -1;
         
-     }
-     for(int i= n-1; i>=0;i--){
-        if(arr[i] ==x){ans.add(i); break;}
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            if (arr[mid] == x) {
+                first = mid;
+                high = mid - 1; // Search for the first occurrence on the left side
+            } else if (arr[mid] < x) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
         
-     }
-     if(ans.size() ==0){
-         ans.add(-1);
-         ans.add(-1);
-         
-     }
-     return ans;
+        return first;
+    }
+    
+    // Binary search to find the last occurrence of x
+    private int findLast(int arr[], int n, int x) {
+        int low = 0, high = n - 1, last = -1;
+        
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            if (arr[mid] == x) {
+                last = mid;
+                low = mid + 1; // Search for the last occurrence on the right side
+            } else if (arr[mid] < x) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+        
+        return last;
     }
 }
 
