@@ -13,59 +13,51 @@ import java.util.*;
 
 
 
+import java.util.ArrayList;
+
 class GFG {
     ArrayList<Integer> find(int arr[], int n, int x) {
         ArrayList<Integer> ans = new ArrayList<>();
         
-        // Find the first occurrence of x
-        int first = findFirst(arr, n, x);
-        // Find the last occurrence of x
-        int last = findLast(arr, n, x);
+        // Initialize variables for first and last occurrences
+        int first = -1, last = -1;
+        int low = 0, high = n - 1;
+        
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            if (arr[mid] == x) {
+                // Update first and continue searching on the left side
+                first = mid;
+                high = mid - 1;
+            } else if (arr[mid] < x) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+        
+        low = 0;
+        high = n - 1;
+        
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            if (arr[mid] == x) {
+                // Update last and continue searching on the right side
+                last = mid;
+                low = mid + 1;
+            } else if (arr[mid] < x) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
         
         ans.add(first);
         ans.add(last);
         
         return ans;
-    }
-    
-    // Binary search to find the first occurrence of x
-    private int findFirst(int arr[], int n, int x) {
-        int low = 0, high = n - 1, first = -1;
-        
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            
-            if (arr[mid] == x) {
-                first = mid;
-                high = mid - 1; // Search for the first occurrence on the left side
-            } else if (arr[mid] < x) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
-        
-        return first;
-    }
-    
-    // Binary search to find the last occurrence of x
-    private int findLast(int arr[], int n, int x) {
-        int low = 0, high = n - 1, last = -1;
-        
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            
-            if (arr[mid] == x) {
-                last = mid;
-                low = mid + 1; // Search for the last occurrence on the right side
-            } else if (arr[mid] < x) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
-        
-        return last;
     }
 }
 
