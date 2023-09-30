@@ -47,38 +47,36 @@ class GFG
 
 class Solution
 {
-    //Function to modify the matrix such that if a matrix cell matrix[i][j]
-    //is 1 then all the cells in its ith row and jth column will become 1.
     void booleanMatrix(int matrix[][])
     {
-        // code here 
-        int m = matrix.length, n = matrix[0].length;
+        int m = matrix.length;
+        int n = matrix[0].length;
         
-        int temp[][] = new int[m][n];
-        for(int i =0; i < m; i++){
-            for(int j =0; j<n; j++){
-                temp[i][j] = matrix[i][j];
-            }
-        }
-        for(int i =0; i < m; i++){
-            for(int j =0; j<n; j++){
-                if(matrix[i][j] ==1){
-                    int row = i , col=j;
-                    
-                    for(int k =0; k <n; k++){
-                        temp[row][k]=1;
-                    }
-                    for(int k =0; k <m; k++){
-                        temp[k][col]=1;
-                    }
+        // Arrays to keep track of rows and columns to be modified
+        int[] rowMarked = new int[m];
+        int[] colMarked = new int[n];
+        
+        // Mark rows and columns to be modified based on 1s in the matrix
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (matrix[i][j] == 1) {
+                    rowMarked[i] = 1;
+                    colMarked[j] = 1;
                 }
             }
         }
-         for(int i =0; i < m; i++){
-            for(int j =0; j<n; j++){
-                matrix[i][j] =temp[i][j] ;
+        
+        // Update the matrix based on the marked rows and columns
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (rowMarked[i] == 1 || colMarked[j] == 1) {
+                    matrix[i][j] = 1;
+                }
             }
         }
-        
     }
 }
+/*Next Suggested Problem(s):
+Rotate by 90 degree
+Row with max 1s
+Rotate a 2D array without using extra space*/
