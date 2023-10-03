@@ -23,35 +23,36 @@ class GFG {
 // User function Template for Java
 
 
+
+
 class Solution {
-    public int getVar(char ch){
-            switch(ch)
-            {
-                case 'I' : return 1;
-                case 'V' : return 5;
-                case 'X' : return 10;
-                case 'L' : return 50;
-                case 'C' : return 100;
-                case 'D' : return 500;
-                case 'M' : return 1000;
-                default : return 0;
-            }
-        }
     public int romanToDecimal(String s) {
+        HashMap<Character, Integer> romanValues = new HashMap<>();
+        romanValues.put('I', 1);
+        romanValues.put('V', 5);
+        romanValues.put('X', 10);
+        romanValues.put('L', 50);
+        romanValues.put('C', 100);
+        romanValues.put('D', 500);
+        romanValues.put('M', 1000);
+        
         int n = s.length();
-        int sum =0;
-        for(int i =0 ; i < n ; i++){
-            char ch1 = s.charAt(i);
-            if((i +1) < n && getVar(ch1) < getVar(s.charAt(i +1))){
-                sum -= getVar(ch1);
+        int sum = 0;
+        int prevValue = 0;
 
-            }else{
-                sum += getVar(ch1);
+        for (int i = n - 1; i >= 0; i--) {
+            char currentChar = s.charAt(i);
+            int currentValue = romanValues.get(currentChar);
 
+            if (currentValue < prevValue) {
+                sum -= currentValue;
+            } else {
+                sum += currentValue;
             }
 
+            prevValue = currentValue;
         }
-        return sum;
 
+        return sum;
     }
 }
