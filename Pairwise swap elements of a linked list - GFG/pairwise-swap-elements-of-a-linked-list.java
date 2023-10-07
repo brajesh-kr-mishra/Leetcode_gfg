@@ -86,38 +86,17 @@ class Node
 
 */
 
+
 class Solution {
     // Function to pairwise swap elements of a linked list.
-    // It should return the head of the modified list
-    public Node pairwiseSwap(Node head) {
-        // Check if the list is empty or has only one node
-        if (head == null || head.next == null) {
-            return head;
-        }
-
-        Node newHead = head.next; // Update the new head
-
-        Node p = head;
-        Node q = head.next;
-        Node prev = null;
-
-        while (p != null && q != null) {
-            p.next = q.next; // Adjust the next pointers
-
-            if (prev != null) {
-                prev.next = q;
-            }
-
-            q.next = p;
-
-            prev = p;
-            p = p.next;
-
-            if (p != null) {
-                q = p.next;
-            }
-        }
-
-        return newHead;
+    // It should returns head of the modified list
+    public Node pairwiseSwap(Node head)
+    {
+        // code here
+        if(head == null || head.next == null) return head;
+        Node temp = head.next;
+        head.next = pairwiseSwap(temp.next);
+        temp.next = head;
+        return temp;
     }
 }
