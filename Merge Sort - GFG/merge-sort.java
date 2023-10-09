@@ -55,7 +55,13 @@ class Merge_Sort
 // } Driver Code Ends
 
 class Solution {
+    private static final int INSERTION_SORT_THRESHOLD = 7; // Adjust the threshold as needed.
+
     void merge(int arr[], int l, int m, int r) {
+        // Merge two subarrays using the standard merge operation
+        // ...
+        // (Same merge code as before)
+        // ...
         // Calculate the sizes of the two subarrays to be merged
         int n1 = m - l + 1;
         int n2 = r - m;
@@ -66,7 +72,7 @@ class Solution {
 
         // Copy data to temporary arrays L[] and R[]
         for (int i = 0; i < n1; i++)
-            L[i] = arr[l + i];
+       L[i] = arr[l + i];
         for (int i = 0; i < n2; i++)
             R[i] = arr[m + 1 + i];
 
@@ -98,17 +104,32 @@ class Solution {
         }
     }
 
+    void insertionSort(int arr[], int l, int r) {
+        for (int i = l + 1; i <= r; i++) {
+            int key = arr[i];
+            int j = i - 1;
+            
+            while (j >= l && arr[j] > key) {
+                arr[j + 1] = arr[j];
+                j--;
+            }
+            
+            arr[j + 1] = key;
+        }
+    }
+
     void mergeSort(int arr[], int l, int r) {
         if (l < r) {
-            // Find the middle point of the array
-            int m = l + (r - l) / 2;
+            if (r - l <= INSERTION_SORT_THRESHOLD) {
+                insertionSort(arr, l, r);
+            } else {
+                int m = l + (r - l) / 2;
 
-            // Recursively sort the first and second halves
-            mergeSort(arr, l, m);
-            mergeSort(arr, m + 1, r);
+                mergeSort(arr, l, m);
+                mergeSort(arr, m + 1, r);
 
-            // Merge the sorted halves
-            merge(arr, l, m, r);
+                merge(arr, l, m, r);
+            }
         }
     }
 }
