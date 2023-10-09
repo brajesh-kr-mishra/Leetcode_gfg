@@ -15,22 +15,26 @@ class Solution
     {
         //code here
         int i , j , temp;
-        boolean swapped;
-        for(i =0; i < n-1; i++){
-            swapped = false;
-            for(j =0; j < n-i-1; j++){
-                if(arr[j]> arr[j+1]){
-                    temp = arr[j];
-                    arr[j] = arr[j+1];
-                    arr[j+1] =  temp;
-                    swapped = true;
+        
+        for(i =0; i < n; i++){
+            
+            for(j =1; j < n-i; j++){
+                if(arr[j-1]> arr[j]){
+                    temp = arr[j-1];
+                    arr[j-1] = arr[j];
+                    arr[j] =  temp;
+                    
                 }
                 
             }
-            if(swapped== false) break;
+            
         }
     }
 }
+/*Next Suggested Problem(s):
+Selection Sort
+Insertion Sort
+Counting Sort*/
 
 //{ Driver Code Starts.
 
