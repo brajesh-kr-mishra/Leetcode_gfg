@@ -36,17 +36,33 @@ class Sorting
 // } Driver Code Ends
 
 class Solution {
+    // Binary search to find the correct position for insertion
+    static int binarySearch(int arr[], int key, int low, int high) {
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (arr[mid] == key)
+                return mid;
+            else if (arr[mid] < key)
+                low = mid + 1;
+            else
+                high = mid - 1;
+        }
+        return low;
+    }
+
     static void insert(int arr[], int i) {
         int key = arr[i];
         int j = i - 1;
-        
-        // Move elements of arr[0..i-1] that are greater than key
-        // to one position ahead of their current position
-        while (j >= 0 && arr[j] > key) {
+
+        // Use binary search to find the correct position for insertion
+        int insertIndex = binarySearch(arr, key, 0, j);
+
+        // Move elements to make space for the key
+        while (j >= insertIndex) {
             arr[j + 1] = arr[j];
             j--;
         }
-        
+
         arr[j + 1] = key;
     }
 
