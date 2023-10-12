@@ -43,10 +43,11 @@ class Item {
 */
 
 
+
 class Solution {
     // Function to get the maximum total value in the knapsack.
     double fractionalKnapsack(int W, Item arr[], int n) {
-        // Create an array of items sorted by value per weight in descending order.
+        // Sort the items based on value per weight in descending order.
         Arrays.sort(arr, new Comparator<Item>() {
             @Override
             public int compare(Item item1, Item item2) {
@@ -81,3 +82,8 @@ class Solution {
         return totalValue;
     }
 }
+
+/*Next Suggested Problem(s):
+Pizza Mania
+Tricky Subset Problem
+Police and Thieves*/
