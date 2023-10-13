@@ -64,22 +64,23 @@ class GFG {
 
  class Solution {
     public static int floor(Node root, int x) {
-      int floorValue = -1;
-
-        while (root != null) {
-            if (root.data == x) {
-                return x; // x is found in the tree, so the floor is x itself.
-            } else if (root.data < x) {
-                floorValue = root.data; // Update the floor value.
-                root = root.right; // Move to the right subtree.
-            } else {
-                root = root.left; // Move to the left subtree.
-            }
+      if (root == null) {
+            return -1; // No node smaller than x in the BST.
         }
 
-        return floorValue;
+        if (root.data == x) {
+            return x;
+        } else if (root.data > x) {
+            return floor(root.left, x);
+        } else {
+            int rightFloor = floor(root.right, x);
+            if (rightFloor == -1) {
+                return root.data;
+            } else {
+                return rightFloor;
+            }
     }
-   
+    }
 }
 /*Next Suggested Problem(s):
 Find the Closest Element in BST
