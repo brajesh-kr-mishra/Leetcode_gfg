@@ -26,82 +26,50 @@ class Node{
 
 
 
-//  class Solution {
-//     public static int floor(Node root, int x) {
-//         ArrayList<Integer> inorderList = new ArrayList<>();
-//         inorderTraversal(root, inorderList);
-
-//         int low = 0;
-//         int high = inorderList.size() - 1;
-//         int floorValue = -1;
-
-//         while (low <= high) {
-//             int mid = low + (high - low) / 2;
-//             int current = inorderList.get(mid);
-
-//             if (current == x) {
-//                 return x; // x is found in the tree, so the floor is x itself.
-//             } else if (current < x) {
-//                 floorValue = current; // Update the floor value.
-//                 low = mid + 1;
-//             } else {
-//                 high = mid - 1;
-//             }
-//         }
-
-//         return floorValue;
-//     }
-
-//     private static void inorderTraversal(Node root, ArrayList<Integer> list) {
-//         if (root == null) {
-//             return;
-//         }
-//         inorderTraversal(root.left, list);
-//         list.add(root.data);
-//         inorderTraversal(root.right, list);
-//     }
-
-   
-// }
-
-
 class Solution {
     // Function to find the nodes that are common in both BST.
     public static ArrayList<Integer> findCommon(Node root1, Node root2) {
-        // Create two ArrayLists to store the inorder traversal results.
-        ArrayList<Integer> l1 = new ArrayList<>();
-        ArrayList<Integer> l2 = new ArrayList<>();
+        ArrayList<Integer> result = new ArrayList<>();
+        Stack<Node> stack1 = new Stack<>();
+        Stack<Node> stack2 = new Stack<>();
 
-        // Perform inorder traversal on both BSTs.
-        inorderTraversal(root1, l1);
-        inorderTraversal(root2, l2);
+        // Initialize the stacks with the leftmost nodes.
+        pushLeftNodes(stack1, root1);
+        pushLeftNodes(stack2, root2);
 
-        // Create a HashSet to store elements from the first BST.
-        HashSet<Integer> s = new HashSet<>(l1);
+        while (!stack1.isEmpty() && !stack2.isEmpty()) {
+            Node node1 = stack1.peek();
+            Node node2 = stack2.peek();
 
-        // Create a result ArrayList to store common elements.
-        ArrayList<Integer> res = new ArrayList<>();
+            if (node1.data == node2.data) {
+                result.add(node1.data);
+                stack1.pop();
+                stack2.pop();
 
-        // Iterate through the second BST's elements and check if they exist in the HashSet.
-        for (int j = 0; j < l2.size(); j++) {
-            if (s.contains(l2.get(j))) {
-                res.add(l2.get(j));
+                // Move to the right subtree.
+                pushLeftNodes(stack1, node1.right);
+                pushLeftNodes(stack2, node2.right);
+            } else if (node1.data < node2.data) {
+                stack1.pop();
+                // Move to the right subtree.
+                pushLeftNodes(stack1, node1.right);
+            } else {
+                stack2.pop();
+                // Move to the right subtree.
+                pushLeftNodes(stack2, node2.right);
             }
         }
 
-        return res;
+        return result;
     }
 
-    private static void inorderTraversal(Node root, ArrayList<Integer> list) {
-        if (root == null) {
-            return;
+    private static void pushLeftNodes(Stack<Node> stack, Node node) {
+        while (node != null) {
+            stack.push(node);
+            node = node.left;
         }
-        inorderTraversal(root.left, list);
-        list.add(root.data);
-        inorderTraversal(root.right, list);
     }
 }
-
 
 
 //{ Driver Code Starts.
