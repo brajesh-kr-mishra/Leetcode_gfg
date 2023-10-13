@@ -64,38 +64,24 @@ class GFG {
 
  class Solution {
     public static int floor(Node root, int x) {
-        ArrayList<Integer> inorderList = new ArrayList<>();
-        inorderTraversal(root, inorderList);
+      int floorValue = -1;
 
-        int low = 0;
-        int high = inorderList.size() - 1;
-        int floorValue = -1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            int current = inorderList.get(mid);
-
-            if (current == x) {
+        while (root != null) {
+            if (root.data == x) {
                 return x; // x is found in the tree, so the floor is x itself.
-            } else if (current < x) {
-                floorValue = current; // Update the floor value.
-                low = mid + 1;
+            } else if (root.data < x) {
+                floorValue = root.data; // Update the floor value.
+                root = root.right; // Move to the right subtree.
             } else {
-                high = mid - 1;
+                root = root.left; // Move to the left subtree.
             }
         }
 
         return floorValue;
     }
-
-    private static void inorderTraversal(Node root, ArrayList<Integer> list) {
-        if (root == null) {
-            return;
-        }
-        inorderTraversal(root.left, list);
-        list.add(root.data);
-        inorderTraversal(root.right, list);
-    }
-
    
 }
+/*Next Suggested Problem(s):
+Find the Closest Element in BST
+Ceil in BST
+Remove BST keys outside given range*/
