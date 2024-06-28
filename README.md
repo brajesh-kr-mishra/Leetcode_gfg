@@ -28,17 +28,20 @@ Leetcode and gfg solution
 | [0502-ipo](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2379-maximum-total-importance-of-roads) |
 # Sorting
 |  |
 | ------- |
 | [0502-ipo](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0853-most-profit-assigning-work) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2379-maximum-total-importance-of-roads) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2379-maximum-total-importance-of-roads) |
 # Math
 |  |
 | ------- |
@@ -91,3 +94,4 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2379-maximum-total-importance-of-roads) |
