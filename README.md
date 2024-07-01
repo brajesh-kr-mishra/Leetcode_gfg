@@ -105,4 +105,8 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
