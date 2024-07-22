@@ -111,10 +111,12 @@ Leetcode and gfg solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -153,4 +156,8 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
