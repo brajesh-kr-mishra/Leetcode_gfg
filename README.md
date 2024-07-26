@@ -104,6 +104,7 @@ Leetcode and gfg solution
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -189,4 +190,12 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0948-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
