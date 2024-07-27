@@ -106,6 +106,7 @@ Leetcode and gfg solution
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Leetcode and gfg solution
 | [1741-sort-array-by-increasing-frequency](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,4 +201,5 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
