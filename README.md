@@ -114,6 +114,7 @@ Leetcode and gfg solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1293-three-consecutive-odds) |
+| [1511-count-number-of-teams](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1511-count-number-of-teams) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
@@ -198,6 +199,7 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1511-count-number-of-teams) |
 ## Shortest Path
 |  |
 | ------- |
@@ -208,4 +210,8 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
