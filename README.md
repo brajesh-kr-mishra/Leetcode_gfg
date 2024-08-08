@@ -112,6 +112,7 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0921-spiral-matrix-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1293-three-consecutive-odds) |
@@ -162,6 +163,7 @@ Leetcode and gfg solution
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -245,4 +247,8 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
