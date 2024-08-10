@@ -100,6 +100,7 @@ Leetcode and gfg solution
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
 |  |
@@ -115,6 +116,7 @@ Leetcode and gfg solution
 | [0870-magic-squares-in-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1511-count-number-of-teams) |
@@ -132,6 +134,7 @@ Leetcode and gfg solution
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -237,6 +240,7 @@ Leetcode and gfg solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -255,4 +259,9 @@ Leetcode and gfg solution
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
