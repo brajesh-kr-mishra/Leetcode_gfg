@@ -122,6 +122,7 @@ Leetcode and gfg solution
 | [1511-count-number-of-teams](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -241,6 +242,7 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -260,8 +262,14 @@ Leetcode and gfg solution
 | [0870-magic-squares-in-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
