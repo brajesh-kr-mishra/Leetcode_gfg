@@ -147,6 +147,7 @@ Leetcode and gfg solution
 | [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Leetcode and gfg solution
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Leetcode and gfg solution
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
