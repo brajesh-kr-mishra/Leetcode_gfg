@@ -190,6 +190,7 @@ Leetcode and gfg solution
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2299-merge-nodes-in-between-zeros) |
