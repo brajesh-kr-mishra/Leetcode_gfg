@@ -452,4 +452,5 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
