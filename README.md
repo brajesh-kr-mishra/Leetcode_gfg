@@ -152,6 +152,7 @@ Leetcode and gfg solution
 | [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -170,6 +171,7 @@ Leetcode and gfg solution
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -268,6 +270,7 @@ Leetcode and gfg solution
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
@@ -314,6 +317,7 @@ Leetcode and gfg solution
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -453,4 +457,5 @@ Leetcode and gfg solution
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
