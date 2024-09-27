@@ -124,6 +124,7 @@ Leetcode and gfg solution
 | [0624-maximum-distance-in-arrays](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0906-walking-robot-simulation) |
@@ -190,6 +191,7 @@ Leetcode and gfg solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -393,6 +395,7 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -415,6 +418,7 @@ Leetcode and gfg solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -473,8 +477,10 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
