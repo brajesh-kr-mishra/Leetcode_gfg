@@ -141,6 +141,7 @@ Leetcode and gfg solution
 | [1511-count-number-of-teams](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -174,6 +175,7 @@ Leetcode and gfg solution
 | [0999-regions-cut-by-slashes](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -317,6 +319,7 @@ Leetcode and gfg solution
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0948-sort-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2494-sum-of-prefix-scores-of-strings) |
