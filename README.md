@@ -171,6 +171,7 @@ Leetcode and gfg solution
 | [0264-ugly-number-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -194,6 +195,7 @@ Leetcode and gfg solution
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -285,6 +287,7 @@ Leetcode and gfg solution
 | [0273-integer-to-english-words](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -369,6 +372,7 @@ Leetcode and gfg solution
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Greedy
 |  |
