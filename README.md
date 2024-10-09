@@ -295,6 +295,7 @@ Leetcode and gfg solution
 | [0592-fraction-addition-and-subtraction](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1923-sentence-similarity-iii) |
@@ -387,6 +388,7 @@ Leetcode and gfg solution
 | [0179-largest-number](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
@@ -475,6 +477,7 @@ Leetcode and gfg solution
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2800-minimum-string-length-after-removing-substrings) |
