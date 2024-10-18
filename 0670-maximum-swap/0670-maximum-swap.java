@@ -1,30 +1,28 @@
 class Solution {
     public int maximumSwap(int num) {
-        // Convert number to string for digit manipulation
-        char[] numArr = Integer.toString(num).toCharArray();
+        char numArr[] = Integer.toString(num).toCharArray();
         int n = numArr.length;
-
-        // Track the last occurrence of each digit (0-9)
-        int[] last = new int[10];
-        for (int i = 0; i < n; i++) {
-            last[numArr[i] - '0'] = i;
-        }
-
-        // Traverse the number from left to right
-        for (int i = 0; i < n; i++) {
-            // Check if we can find a larger digit to swap
-            for (int d = 9; d > numArr[i] - '0'; d--) {
-                if (last[d] > i) {
-                    // Swap and return the new number
-                    char temp = numArr[i];
-                    numArr[i] = numArr[last[d]];
-                    numArr[last[d]] = temp;
-                    return Integer.parseInt(new String(numArr));
-                }
+        char maxElement = numArr[n-1]; 
+        int maxIndex = n-1;
+        int swapIdx1 = -1;
+        int swapIdx2 = -1;
+        for(int i=n-2;i>=0;i--){
+            if(numArr[i] > maxElement){
+                maxElement = numArr[i];
+                maxIndex = i;
+            }else if(numArr[i] < maxElement){
+                swapIdx1 = i;
+                swapIdx2 = maxIndex;
             }
         }
 
-        // Return the original number if no swap occurred
-        return num;
+        //perform swapping
+        if(swapIdx1!=-1){
+            char temp = numArr[swapIdx1];
+            numArr[swapIdx1] = numArr[swapIdx2];
+            numArr[swapIdx2] = temp;
+        }
+        return Integer.parseInt(new String(numArr));
+        
     }
 }
