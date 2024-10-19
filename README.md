@@ -257,6 +257,7 @@ Leetcode and gfg solution
 | [0906-walking-robot-simulation](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -289,6 +290,7 @@ Leetcode and gfg solution
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -311,6 +313,7 @@ Leetcode and gfg solution
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2076-sum-of-digits-of-string-after-convert) |
