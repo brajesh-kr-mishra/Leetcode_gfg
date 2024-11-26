@@ -113,6 +113,7 @@ Leetcode and gfg solution
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Array
 |  |
