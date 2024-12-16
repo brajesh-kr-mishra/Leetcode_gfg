@@ -216,6 +216,7 @@ Leetcode and gfg solution
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -360,6 +361,7 @@ Leetcode and gfg solution
 | [2692-take-gifts-from-the-richest-pile](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -379,6 +381,7 @@ Leetcode and gfg solution
 | [2645-pass-the-pillow](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -464,6 +467,7 @@ Leetcode and gfg solution
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
