@@ -287,6 +287,7 @@ Leetcode and gfg solution
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -482,6 +483,7 @@ Leetcode and gfg solution
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -562,6 +564,7 @@ Leetcode and gfg solution
 | [1502-construct-k-palindrome-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
