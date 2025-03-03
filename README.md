@@ -223,6 +223,7 @@ Leetcode and gfg solution
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -347,6 +348,7 @@ Leetcode and gfg solution
 | [1972-rotating-the-box](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2551-apply-operations-to-an-array) |
@@ -438,6 +440,7 @@ Leetcode and gfg solution
 | [2132-convert-1d-array-into-2d-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/2411-spiral-matrix-iv) |
