@@ -171,6 +171,7 @@ Leetcode and gfg solution
 | [1256-rank-transform-of-an-array](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1325-path-with-maximum-probability) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1396-count-servers-that-communicate) |
@@ -372,6 +373,7 @@ Leetcode and gfg solution
 | [0729-my-calendar-i](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/brajesh-kr-mishra/Leetcode_gfg/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
